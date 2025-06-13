@@ -1,0 +1,10 @@
+__pycache__/
+fake_chs_lp/.idea
+imgToVideo/
+models/__pycache__/
+models_1/__pycache__/
+result_videos/
+user_upload_videos/
+utils/__pycache__/
+utils_1/__pycache__/
+videoToImg/
